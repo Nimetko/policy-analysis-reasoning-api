@@ -25,6 +25,9 @@ for bill in bills:
 # Convert to pandas DataFrame
 df = pd.DataFrame(flat_bills)
 
+# remove duplicates
+df = df.drop_duplicates(subset=["billId"])
+
 # Save to CSV (optional, good for SQL import)
 df.to_csv("flat_bills.csv", index=False)
 
