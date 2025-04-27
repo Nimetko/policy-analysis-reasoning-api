@@ -1,41 +1,57 @@
 import requests
 import json
+import math
 
-# Base URL
-BASE_URL = "https://bills-api.parliament.uk/api/v1/Bills"  # <- Important: Corrected endpoint
+BASE_URL = "https://bills-api.parliament.uk/api/v1/Bills"
 
-# Set page size and start page
+all_bills = []
+
+# Step 1: First request to get totalResults
 params = {
-    "PageSize": 100,  # Note: P should be capital
-    "Page": 1
+    "PageSize": 20,  # Doesn't matter, API limits to 20
+    "Skip": 0
 }
 
-all_bills = []  # List to store bills
+print(f"Fetching first page to find total results...")
 
-# Loop to fetch 500 bills
-while len(all_bills) < 500:
-    print(f"Fetching page {params['Page']}...")
+response = requests.get(BASE_URL, params=params)
+if response.status_code != 200:
+    print(f"Failed to fetch data: {response.status_code}")
+    exit()
+
+data = response.json()
+total_results = data.get("totalResults", 0)
+print(f"Total bills found: {total_results}")
+
+# Save first 20 bills
+bills = data.get("items", [])
+all_bills.extend(bills)
+
+# Step 2: Calculate how many pages
+pages_needed = math.ceil(total_results / 20)
+print(f"Total pages needed: {pages_needed}")
+
+# Step 3: Fetch all other pages
+for page in range(1, pages_needed):
+    skip = page * 20
+    print(f"Fetching bills with skip={skip}...")
+    params = {
+        "PageSize": 20,  # Always 20
+        "Skip": skip
+    }
     response = requests.get(BASE_URL, params=params)
-
     if response.status_code != 200:
-        print(f"Failed to fetch page {params['Page']}: {response.status_code}")
+        print(f"Failed to fetch data at skip={skip}: {response.status_code}")
         break
 
     data = response.json()
     bills = data.get("items", [])
-    
-    if not bills:
-        print("No more bills found.")
-        break
-
     all_bills.extend(bills)
-    params["Page"] += 1
 
-# Limit to exactly 500 if needed
-all_bills = all_bills[:500]
+print(f"✅ Successfully fetched {len(all_bills)} bills total!")
 
-# Save to JSON file
+# Step 4: Save to JSON
 with open("bills_data.json", "w", encoding="utf-8") as f:
     json.dump(all_bills, f, ensure_ascii=False, indent=2)
 
-print(f"Successfully fetched {len(all_bills)} bills!")
+print("✅ Bills data saved to bills_full_dataset.json!")
