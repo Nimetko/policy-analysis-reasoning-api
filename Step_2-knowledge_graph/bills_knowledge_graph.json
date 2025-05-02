@@ -1,0 +1,4872 @@
+{
+  "nodes": [
+    {
+      "id": "Bill 3609",
+      "label": "Bill 3609",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Commons",
+      "label": "Commons",
+      "type": "Department",
+      "color": "#47D16C"
+    },
+    {
+      "id": "2nd reading",
+      "label": "2nd reading",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 2873",
+      "label": "Bill 2873",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Lords",
+      "label": "Lords",
+      "type": "Department",
+      "color": "#47D16C"
+    },
+    {
+      "id": "3rd reading",
+      "label": "3rd reading",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 1180",
+      "label": "Bill 1180",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Royal Assent",
+      "label": "Royal Assent",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 3051",
+      "label": "Bill 3051",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 207",
+      "label": "Bill 207",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3479",
+      "label": "Bill 3479",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "1st reading",
+      "label": "1st reading",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 3922",
+      "label": "Bill 3922",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 571",
+      "label": "Bill 571",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Committee stage",
+      "label": "Committee stage",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 1000",
+      "label": "Bill 1000",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2056",
+      "label": "Bill 2056",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 767",
+      "label": "Bill 767",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1878",
+      "label": "Bill 1878",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 573",
+      "label": "Bill 573",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 294",
+      "label": "Bill 294",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1753",
+      "label": "Bill 1753",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 73",
+      "label": "Bill 73",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2519",
+      "label": "Bill 2519",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3632",
+      "label": "Bill 3632",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3716",
+      "label": "Bill 3716",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1205",
+      "label": "Bill 1205",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2161",
+      "label": "Bill 2161",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1958",
+      "label": "Bill 1958",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1996",
+      "label": "Bill 1996",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1908",
+      "label": "Bill 1908",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3827",
+      "label": "Bill 3827",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2172",
+      "label": "Bill 2172",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Consideration of Lords amendments",
+      "label": "Consideration of Lords amendments",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 461",
+      "label": "Bill 461",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3497",
+      "label": "Bill 3497",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1782",
+      "label": "Bill 1782",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2581",
+      "label": "Bill 2581",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1818",
+      "label": "Bill 1818",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1366",
+      "label": "Bill 1366",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3953",
+      "label": "Bill 3953",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 127",
+      "label": "Bill 127",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 731",
+      "label": "Bill 731",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3701",
+      "label": "Bill 3701",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1552",
+      "label": "Bill 1552",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3225",
+      "label": "Bill 3225",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 914",
+      "label": "Bill 914",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1222",
+      "label": "Bill 1222",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2595",
+      "label": "Bill 2595",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1005",
+      "label": "Bill 1005",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2217",
+      "label": "Bill 2217",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Report stage",
+      "label": "Report stage",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 2803",
+      "label": "Bill 2803",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 113",
+      "label": "Bill 113",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 95",
+      "label": "Bill 95",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2893",
+      "label": "Bill 2893",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 810",
+      "label": "Bill 810",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2284",
+      "label": "Bill 2284",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3705",
+      "label": "Bill 3705",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 765",
+      "label": "Bill 765",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 929",
+      "label": "Bill 929",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3346",
+      "label": "Bill 3346",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 309",
+      "label": "Bill 309",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 60",
+      "label": "Bill 60",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1583",
+      "label": "Bill 1583",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 786",
+      "label": "Bill 786",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3007",
+      "label": "Bill 3007",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 404",
+      "label": "Bill 404",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1302",
+      "label": "Bill 1302",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1417",
+      "label": "Bill 1417",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3853",
+      "label": "Bill 3853",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3562",
+      "label": "Bill 3562",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1673",
+      "label": "Bill 1673",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 885",
+      "label": "Bill 885",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1336",
+      "label": "Bill 1336",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1986",
+      "label": "Bill 1986",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3525",
+      "label": "Bill 3525",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Order of Commitment discharged",
+      "label": "Order of Commitment discharged",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 2215",
+      "label": "Bill 2215",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 225",
+      "label": "Bill 225",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 234",
+      "label": "Bill 234",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2401",
+      "label": "Bill 2401",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1281",
+      "label": "Bill 1281",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2619",
+      "label": "Bill 2619",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 244",
+      "label": "Bill 244",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2476",
+      "label": "Bill 2476",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1898",
+      "label": "Bill 1898",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1636",
+      "label": "Bill 1636",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2568",
+      "label": "Bill 2568",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1718",
+      "label": "Bill 1718",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2237",
+      "label": "Bill 2237",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3746",
+      "label": "Bill 3746",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 380",
+      "label": "Bill 380",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 553",
+      "label": "Bill 553",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3474",
+      "label": "Bill 3474",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 406",
+      "label": "Bill 406",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1977",
+      "label": "Bill 1977",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2969",
+      "label": "Bill 2969",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 623",
+      "label": "Bill 623",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2239",
+      "label": "Bill 2239",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2013",
+      "label": "Bill 2013",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3378",
+      "label": "Bill 3378",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1132",
+      "label": "Bill 1132",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1068",
+      "label": "Bill 1068",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2119",
+      "label": "Bill 2119",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 821",
+      "label": "Bill 821",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2638",
+      "label": "Bill 2638",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2941",
+      "label": "Bill 2941",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 205",
+      "label": "Bill 205",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3136",
+      "label": "Bill 3136",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1294",
+      "label": "Bill 1294",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1284",
+      "label": "Bill 1284",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2125",
+      "label": "Bill 2125",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3069",
+      "label": "Bill 3069",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1561",
+      "label": "Bill 1561",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1093",
+      "label": "Bill 1093",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 213",
+      "label": "Bill 213",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3066",
+      "label": "Bill 3066",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1318",
+      "label": "Bill 1318",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2753",
+      "label": "Bill 2753",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2948",
+      "label": "Bill 2948",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3154",
+      "label": "Bill 3154",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3744",
+      "label": "Bill 3744",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 62",
+      "label": "Bill 62",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2433",
+      "label": "Bill 2433",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3417",
+      "label": "Bill 3417",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1421",
+      "label": "Bill 1421",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 745",
+      "label": "Bill 745",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1505",
+      "label": "Bill 1505",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1825",
+      "label": "Bill 1825",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1820",
+      "label": "Bill 1820",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 655",
+      "label": "Bill 655",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1737",
+      "label": "Bill 1737",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2938",
+      "label": "Bill 2938",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 490",
+      "label": "Bill 490",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3059",
+      "label": "Bill 3059",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 971",
+      "label": "Bill 971",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1955",
+      "label": "Bill 1955",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 576",
+      "label": "Bill 576",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2182",
+      "label": "Bill 2182",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3938",
+      "label": "Bill 3938",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3348",
+      "label": "Bill 3348",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2985",
+      "label": "Bill 2985",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2421",
+      "label": "Bill 2421",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 109",
+      "label": "Bill 109",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2633",
+      "label": "Bill 2633",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 65",
+      "label": "Bill 65",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1118",
+      "label": "Bill 1118",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1255",
+      "label": "Bill 1255",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1992",
+      "label": "Bill 1992",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3324",
+      "label": "Bill 3324",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 172",
+      "label": "Bill 172",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1441",
+      "label": "Bill 1441",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2535",
+      "label": "Bill 2535",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3809",
+      "label": "Bill 3809",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1502",
+      "label": "Bill 1502",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1410",
+      "label": "Bill 1410",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3344",
+      "label": "Bill 3344",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2757",
+      "label": "Bill 2757",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3011",
+      "label": "Bill 3011",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1168",
+      "label": "Bill 1168",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2431",
+      "label": "Bill 2431",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1599",
+      "label": "Bill 1599",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1151",
+      "label": "Bill 1151",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3313",
+      "label": "Bill 3313",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1395",
+      "label": "Bill 1395",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 915",
+      "label": "Bill 915",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2726",
+      "label": "Bill 2726",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1924",
+      "label": "Bill 1924",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3879",
+      "label": "Bill 3879",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1091",
+      "label": "Bill 1091",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2987",
+      "label": "Bill 2987",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3146",
+      "label": "Bill 3146",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 837",
+      "label": "Bill 837",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 746",
+      "label": "Bill 746",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2700",
+      "label": "Bill 2700",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2964",
+      "label": "Bill 2964",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2060",
+      "label": "Bill 2060",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2248",
+      "label": "Bill 2248",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2832",
+      "label": "Bill 2832",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1186",
+      "label": "Bill 1186",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2333",
+      "label": "Bill 2333",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3555",
+      "label": "Bill 3555",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2910",
+      "label": "Bill 2910",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2575",
+      "label": "Bill 2575",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1557",
+      "label": "Bill 1557",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3825",
+      "label": "Bill 3825",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3780",
+      "label": "Bill 3780",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1405",
+      "label": "Bill 1405",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3075",
+      "label": "Bill 3075",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3194",
+      "label": "Bill 3194",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3363",
+      "label": "Bill 3363",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3585",
+      "label": "Bill 3585",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1562",
+      "label": "Bill 1562",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 768",
+      "label": "Bill 768",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1125",
+      "label": "Bill 1125",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 258",
+      "label": "Bill 258",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1386",
+      "label": "Bill 1386",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 957",
+      "label": "Bill 957",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 923",
+      "label": "Bill 923",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2719",
+      "label": "Bill 2719",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3063",
+      "label": "Bill 3063",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1025",
+      "label": "Bill 1025",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 565",
+      "label": "Bill 565",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2612",
+      "label": "Bill 2612",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 954",
+      "label": "Bill 954",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1212",
+      "label": "Bill 1212",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2894",
+      "label": "Bill 2894",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 535",
+      "label": "Bill 535",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3016",
+      "label": "Bill 3016",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2193",
+      "label": "Bill 2193",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3560",
+      "label": "Bill 3560",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 120",
+      "label": "Bill 120",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2229",
+      "label": "Bill 2229",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3876",
+      "label": "Bill 3876",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3046",
+      "label": "Bill 3046",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3963",
+      "label": "Bill 3963",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2393",
+      "label": "Bill 2393",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1396",
+      "label": "Bill 1396",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1759",
+      "label": "Bill 1759",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2927",
+      "label": "Bill 2927",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3925",
+      "label": "Bill 3925",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2390",
+      "label": "Bill 2390",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 855",
+      "label": "Bill 855",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1904",
+      "label": "Bill 1904",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 450",
+      "label": "Bill 450",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 973",
+      "label": "Bill 973",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3133",
+      "label": "Bill 3133",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1028",
+      "label": "Bill 1028",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2268",
+      "label": "Bill 2268",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1100",
+      "label": "Bill 1100",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 67",
+      "label": "Bill 67",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3570",
+      "label": "Bill 3570",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2078",
+      "label": "Bill 2078",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3690",
+      "label": "Bill 3690",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3419",
+      "label": "Bill 3419",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3909",
+      "label": "Bill 3909",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1650",
+      "label": "Bill 1650",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1482",
+      "label": "Bill 1482",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3049",
+      "label": "Bill 3049",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2326",
+      "label": "Bill 2326",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3888",
+      "label": "Bill 3888",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 602",
+      "label": "Bill 602",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2566",
+      "label": "Bill 2566",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3918",
+      "label": "Bill 3918",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2360",
+      "label": "Bill 2360",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1195",
+      "label": "Bill 1195",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 599",
+      "label": "Bill 599",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 124",
+      "label": "Bill 124",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 321",
+      "label": "Bill 321",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3463",
+      "label": "Bill 3463",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 78",
+      "label": "Bill 78",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Money resolution",
+      "label": "Money resolution",
+      "type": "Status",
+      "color": "#FFA500"
+    },
+    {
+      "id": "Bill 1903",
+      "label": "Bill 1903",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3534",
+      "label": "Bill 3534",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3921",
+      "label": "Bill 3921",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2492",
+      "label": "Bill 2492",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3036",
+      "label": "Bill 3036",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1450",
+      "label": "Bill 1450",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2624",
+      "label": "Bill 2624",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2923",
+      "label": "Bill 2923",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 962",
+      "label": "Bill 962",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1144",
+      "label": "Bill 1144",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 775",
+      "label": "Bill 775",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1170",
+      "label": "Bill 1170",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3374",
+      "label": "Bill 3374",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3428",
+      "label": "Bill 3428",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 402",
+      "label": "Bill 402",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1254",
+      "label": "Bill 1254",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3688",
+      "label": "Bill 3688",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1140",
+      "label": "Bill 1140",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 781",
+      "label": "Bill 781",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3070",
+      "label": "Bill 3070",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1120",
+      "label": "Bill 1120",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2662",
+      "label": "Bill 2662",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2409",
+      "label": "Bill 2409",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2755",
+      "label": "Bill 2755",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2146",
+      "label": "Bill 2146",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3658",
+      "label": "Bill 3658",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2980",
+      "label": "Bill 2980",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 827",
+      "label": "Bill 827",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 523",
+      "label": "Bill 523",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2838",
+      "label": "Bill 2838",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2206",
+      "label": "Bill 2206",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1667",
+      "label": "Bill 1667",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 983",
+      "label": "Bill 983",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2606",
+      "label": "Bill 2606",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3725",
+      "label": "Bill 3725",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 1266",
+      "label": "Bill 1266",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3942",
+      "label": "Bill 3942",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 360",
+      "label": "Bill 360",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 123",
+      "label": "Bill 123",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2843",
+      "label": "Bill 2843",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3620",
+      "label": "Bill 3620",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 990",
+      "label": "Bill 990",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2137",
+      "label": "Bill 2137",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2510",
+      "label": "Bill 2510",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 362",
+      "label": "Bill 362",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2422",
+      "label": "Bill 2422",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2888",
+      "label": "Bill 2888",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3294",
+      "label": "Bill 3294",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 447",
+      "label": "Bill 447",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3873",
+      "label": "Bill 3873",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2565",
+      "label": "Bill 2565",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3855",
+      "label": "Bill 3855",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 874",
+      "label": "Bill 874",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3600",
+      "label": "Bill 3600",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 935",
+      "label": "Bill 935",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 3054",
+      "label": "Bill 3054",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 620",
+      "label": "Bill 620",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    },
+    {
+      "id": "Bill 2997",
+      "label": "Bill 2997",
+      "type": "Bill",
+      "color": "#4F9DFF"
+    }
+  ],
+  "edges": [
+    {
+      "from": "Bill 3609",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3609",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2873",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2873",
+      "to": "3rd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1180",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1180",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3051",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3051",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 207",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 207",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3479",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3479",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3922",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3922",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 571",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 571",
+      "to": "Committee stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1000",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1000",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2056",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2056",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 767",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 767",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1878",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1878",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 573",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 573",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 294",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 294",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1753",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1753",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 73",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 73",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2519",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2519",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3632",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3632",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3716",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3716",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1205",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1205",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2161",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2161",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1958",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1958",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1996",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1996",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1908",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1908",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3827",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3827",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2172",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2172",
+      "to": "Consideration of Lords amendments",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 461",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 461",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3497",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3497",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1782",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1782",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2581",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2581",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1818",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1818",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1366",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1366",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3953",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3953",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 127",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 127",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 731",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 731",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3701",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3701",
+      "to": "Committee stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1552",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1552",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3225",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3225",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 914",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 914",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1222",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1222",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2595",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2595",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1005",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1005",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2217",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2217",
+      "to": "Report stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2803",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2803",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 113",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 113",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 95",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 95",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2893",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2893",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 810",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 810",
+      "to": "3rd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2284",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2284",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3705",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3705",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 765",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 765",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 929",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 929",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3346",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3346",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 309",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 309",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 60",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 60",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1583",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1583",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 786",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 786",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3007",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3007",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 404",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 404",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1302",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1302",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1417",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1417",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3853",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3853",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3562",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3562",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1673",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1673",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 885",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 885",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1336",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1336",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1986",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1986",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3525",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3525",
+      "to": "Order of Commitment discharged",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2215",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2215",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 225",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 225",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 234",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 234",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2401",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2401",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1281",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1281",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2619",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2619",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 244",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 244",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2476",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2476",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1898",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1898",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1636",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1636",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2568",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2568",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1718",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1718",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2237",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2237",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3746",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3746",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 380",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 380",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 553",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 553",
+      "to": "Report stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3474",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3474",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 406",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 406",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1977",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1977",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2969",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2969",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 623",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 623",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2239",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2239",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2013",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2013",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3378",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3378",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1132",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1132",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1068",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1068",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2119",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2119",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 821",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 821",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2638",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2638",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2941",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2941",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 205",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 205",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3136",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3136",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1294",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1294",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1284",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1284",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2125",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2125",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3069",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3069",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1561",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1561",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1093",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1093",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 213",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 213",
+      "to": "Committee stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3066",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3066",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1318",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1318",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2753",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2753",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2948",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2948",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3154",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3154",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3744",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3744",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 62",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 62",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2433",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2433",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3417",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3417",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1421",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1421",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 745",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 745",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1505",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1505",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1825",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1825",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1820",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1820",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 655",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 655",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1737",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1737",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2938",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2938",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 490",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 490",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3059",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3059",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 971",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 971",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1955",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1955",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 576",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 576",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2182",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2182",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3938",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3938",
+      "to": "Committee stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3348",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3348",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2985",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2985",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2421",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2421",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 109",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 109",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2633",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2633",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 65",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 65",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1118",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1118",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1255",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1255",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1992",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1992",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3324",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3324",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 172",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 172",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1441",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1441",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2535",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2535",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3809",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3809",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1502",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1502",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1410",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1410",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3344",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3344",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2757",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2757",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3011",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3011",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1168",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1168",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2431",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2431",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1599",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1599",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1151",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1151",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3313",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3313",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1395",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1395",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 915",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 915",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2726",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2726",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1924",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1924",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3879",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3879",
+      "to": "Committee stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1091",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1091",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2987",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2987",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3146",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3146",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 837",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 837",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 746",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 746",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2700",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2700",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2964",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2964",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2060",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2060",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2248",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2248",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2832",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2832",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1186",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1186",
+      "to": "3rd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2333",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2333",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3555",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3555",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2910",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2910",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2575",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2575",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1557",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1557",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3825",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3825",
+      "to": "Report stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3780",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3780",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1405",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1405",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3075",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3075",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3194",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3194",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3363",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3363",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3585",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3585",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1562",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1562",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 768",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 768",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1125",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1125",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 258",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 258",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1386",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1386",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 957",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 957",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 923",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 923",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2719",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2719",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3063",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3063",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1025",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1025",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 565",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 565",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2612",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2612",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 954",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 954",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1212",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1212",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2894",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2894",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 535",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 535",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3016",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3016",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2193",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2193",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3560",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3560",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 120",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 120",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2229",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2229",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3876",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3876",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3046",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3046",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3963",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3963",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2393",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2393",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1396",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1396",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1759",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1759",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2927",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2927",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3925",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3925",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2390",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2390",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 855",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 855",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1904",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1904",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 450",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 450",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 973",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 973",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3133",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3133",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1028",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1028",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2268",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2268",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1100",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1100",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 67",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 67",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3570",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3570",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2078",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2078",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3690",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3690",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3419",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3419",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3909",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3909",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1650",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1650",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1482",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1482",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3049",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3049",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2326",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2326",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3888",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3888",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 602",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 602",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2566",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2566",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3918",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3918",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2360",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2360",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1195",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1195",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 599",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 599",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 124",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 124",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 321",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 321",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3463",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3463",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 78",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 78",
+      "to": "Money resolution",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1903",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1903",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3534",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3534",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3921",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3921",
+      "to": "Report stage",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2492",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2492",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3036",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3036",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1450",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1450",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2624",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2624",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2923",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2923",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 962",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 962",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1144",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1144",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 775",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 775",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1170",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1170",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3374",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3374",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3428",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3428",
+      "to": "1st reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 402",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 402",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1254",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1254",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3688",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3688",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1140",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1140",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 781",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 781",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3070",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3070",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1120",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1120",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2662",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2662",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2409",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2409",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2755",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2755",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2146",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2146",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3658",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3658",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2980",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2980",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 827",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 827",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 523",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 523",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2838",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2838",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2206",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2206",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1667",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1667",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 983",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 983",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2606",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2606",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3725",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3725",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 1266",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 1266",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3942",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3942",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 360",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 360",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 123",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 123",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2843",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2843",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3620",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3620",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 990",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 990",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2137",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2137",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2510",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2510",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 362",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 362",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2422",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2422",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2888",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2888",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3294",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3294",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 447",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 447",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3873",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3873",
+      "to": "Royal Assent",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2565",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2565",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3855",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3855",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 874",
+      "to": "Lords",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 874",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3600",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3600",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 935",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 935",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 3054",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 3054",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 620",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 620",
+      "to": "2nd reading",
+      "label": "current_status"
+    },
+    {
+      "from": "Bill 2997",
+      "to": "Commons",
+      "label": "handled_by"
+    },
+    {
+      "from": "Bill 2997",
+      "to": "2nd reading",
+      "label": "current_status"
+    }
+  ]
+}
