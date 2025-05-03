@@ -1,0 +1,77 @@
+import networkx as nx
+import json
+import argparse
+from collections import Counter
+
+# Load the graph
+with open("bills_knowledge_graph.json") as f:
+    data = json.load(f)
+    G = nx.node_link_graph(data, edges="links")  # Explicitly define 'links' to suppress warning
+
+
+def summarize_policy_areas():
+    policy_areas = [
+        attrs.get("policyArea", "<Unknown>")
+        for node, attrs in G.nodes(data=True)
+        if attrs.get("type") == "bill"
+    ]
+    print(f"\n📦 Found {len(policy_areas)} bill nodes")
+
+    counter = Counter(policy_areas)
+
+    print("\n📊 Bills per Policy Area:\n")
+    for area, count in counter.most_common():
+        print(f"{area:<20} {count}")
+
+
+def rejected_bills_by_policy():
+    rejected = {}
+    for node, attrs in G.nodes(data=True):
+        if attrs.get("type") == "bill" and not attrs.get("isAct", True):
+            policy = attrs.get("policyArea", "<Unknown>")
+            rejected.setdefault(policy, []).append(attrs.get("shortTitle", node))
+
+    print("\n❌ Rejected Bills per Policy Area:")
+    for area, bills in sorted(rejected.items(), key=lambda x: -len(x[1])):
+        print(f"\n{area} ({len(bills)} rejected):")
+        for title in bills[:5]:  # print only top 5 per area
+            print(f"  - {title}")
+        if len(bills) > 5:
+            print("  ...")
+
+
+def trace_bill(bill_id):
+    if not G.has_node(bill_id):
+        print(f"❌ Bill ID {bill_id} not found in graph")
+        return
+    attrs = G.nodes[bill_id]
+    print(f"\n🔎 Bill {bill_id} - {attrs.get('shortTitle', 'No title')}")
+    print(f"  Policy Area: {attrs.get('policyArea')}")
+    print(f"  Is Act: {attrs.get('isAct')}")
+    print(f"  Withdrawn: {attrs.get('billWithdrawn')}")
+
+    print("\n🔗 Connections:")
+    for neighbor in G.neighbors(bill_id):
+        edge_data = G.get_edge_data(bill_id, neighbor)
+        neighbor_data = G.nodes[neighbor]
+        label = neighbor_data.get("type", "?")
+        print(f"  - {label}: {neighbor}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--summary", action="store_true", help="Show summary of bills per policy area")
+    parser.add_argument("--rejected", action="store_true", help="Show rejected bills per policy area")
+    parser.add_argument("--trace", type=str, help="Trace connections of a specific bill by ID")
+
+    args = parser.parse_args()
+
+    if args.summary:
+        summarize_policy_areas()
+    if args.rejected:
+        rejected_bills_by_policy()
+    if args.trace:
+        trace_bill(args.trace)
+
+    if not any([args.summary, args.rejected, args.trace]):
+        parser.print_help()
