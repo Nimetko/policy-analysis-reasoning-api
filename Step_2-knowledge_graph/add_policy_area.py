@@ -18,7 +18,7 @@ supabase = create_client(url, key)
 openai_api_key = os.getenv("OPENAI_API_KEY")
 openai = OpenAI(api_key=openai_api_key)
 
-# Retrieve all rows from Supabase (filtered from 2020 onwards)
+# Retrieve all rows from Supabase
 table_name = "all_bills_uk"
 batch_size = 1000
 offset = 0
@@ -34,13 +34,13 @@ while True:
 df_bills = pd.DataFrame(all_rows)
 print(f"✅ Loaded {len(df_bills)} bills")
 
-# Filter to bills from 2020 onwards
-if 'lastUpdate' in df_bills.columns:
-    df_bills['lastUpdate'] = pd.to_datetime(df_bills['lastUpdate'], errors='coerce')
-    df_bills = df_bills[df_bills['lastUpdate'] >= '2020-01-01'].copy()
-    print(f"📅 Filtered to {len(df_bills)} bills from 2020 onwards")
-else:
-    print("⚠️ 'lastUpdate' column missing from dataset")
+# -- Removed filter to bills from 2020 onwards --
+# if 'lastUpdate' in df_bills.columns:
+#     df_bills['lastUpdate'] = pd.to_datetime(df_bills['lastUpdate'], errors='coerce')
+#     df_bills = df_bills[df_bills['lastUpdate'] >= '2020-01-01'].copy()
+#     print(f"📅 Filtered to {len(df_bills)} bills from 2020 onwards")
+# else:
+#     print("⚠️ 'lastUpdate' column missing from dataset")
 
 # Categorize shortTitles into policyArea using batch GPT calls
 if 'shortTitle' in df_bills.columns:
@@ -49,8 +49,8 @@ if 'shortTitle' in df_bills.columns:
     batch_size = 50
 
     for i in range(0, len(unique_titles), batch_size):
-    #     if i >= batch_size * 3:  # Limit to first 3 batches for testing
-    #         break
+        # if i >= batch_size * 3:  # Limit to first 3 batches for testing
+        #     break
 
         batch = unique_titles.iloc[i:i + batch_size]
         title_dict = {str(bid): title for bid, title in zip(batch['billId'], batch['shortTitle'])}
