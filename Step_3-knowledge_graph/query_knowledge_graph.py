@@ -36,18 +36,21 @@ def rejected_bills_by_policy():
     rejected = {}
     for node, attrs in G.nodes(data=True):
         if attrs.get("label") == "Bill":
+            outcomes = []
             for nbr in G.neighbors(node):
                 nbr_attrs = G.nodes[nbr]
                 if nbr_attrs.get("label") == "Outcome" and nbr_attrs.get("status") in ["Rejected", "Withdrawn"]:
-                    title = attrs.get("title", node)
-                    policy_area = "<Unknown>"
-                    for second_nbr in G.neighbors(node):
-                        second_attrs = G.nodes[second_nbr]
-                        if second_attrs.get("label") == "PolicyArea":
-                            policy_area = second_attrs.get("name", policy_area)
-                            break
-                    rejected.setdefault(policy_area, []).append(title)
-                    break
+                    outcomes.append(nbr_attrs.get("status"))
+
+            if outcomes:
+                title = attrs.get("title", node)
+                policy_area = "<Unknown>"
+                for second_nbr in G.neighbors(node):
+                    second_attrs = G.nodes[second_nbr]
+                    if second_attrs.get("label") == "PolicyArea":
+                        policy_area = second_attrs.get("name", policy_area)
+                        break
+                rejected.setdefault(policy_area, []).append(title)
 
     print("\n❌ Rejected Bills per Policy Area:")
     for area, bills in sorted(rejected.items(), key=lambda x: -len(x[1])):
