@@ -43,12 +43,10 @@ def build_kg(data):
         area_uri = URIRef(ns[bill["policyArea"].replace(" ", "_")])
         g.add((bill_uri, ns["hasStatus"], status_uri))
         g.add((bill_uri, ns["belongsTo"], area_uri))
-        if bill.get("isDefeated"):
-            g.add((bill_uri, ns["isDefeated"], Literal(bill["isDefeated"])))
-        if bill.get("isAct"):
-            g.add((bill_uri, ns["isAct"], Literal(bill["isAct"])))
-        if bill.get("billWithdrawn"):
-            g.add((bill_uri, ns["billWithdrawn"], Literal(bill["billWithdrawn"])))
+        if bill.get("isAct") is True:
+            g.add((bill_uri, ns["isApproved"], Literal(True)))
+        elif bill.get("isAct") is False:
+            g.add((bill_uri, ns["isRejected"], Literal(True)))
         if bill.get("currentHouse"):
             house_uri = URIRef(ns[bill["currentHouse"].replace(" ", "_")])
             g.add((bill_uri, ns["currentHouse"], house_uri))
