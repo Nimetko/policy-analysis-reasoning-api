@@ -88,7 +88,8 @@ Question:
 {question}
 """
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        # model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[{"role": "user", "content": prompt}],
         max_tokens=800
     )
@@ -108,7 +109,8 @@ User query:
 "{user_input}"
 """
     semantic_result = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
+        # model="gpt-4o-mini",
         messages=[{"role": "user", "content": semantic_prompt}],
         max_tokens=150
     )
