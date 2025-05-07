@@ -1,255 +1,583 @@
 @prefix ns1: <http://example.org/legislation/> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-ns1:Bill1919 ns1:belongsTo ns1:Education ;
+ns1:Bill1918 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill2862 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Unassigned ;
-    ns1:hasStatus ns1:Royal_Assent ;
-    ns1:isAct true ;
+ns1:Bill26 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill2868 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Unassigned ;
-    ns1:hasStatus ns1:Royal_Assent ;
-    ns1:isAct true ;
+ns1:Bill2873 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:3rd_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill2871 ns1:belongsTo ns1:Education ;
+ns1:Bill2875 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill2874 ns1:belongsTo ns1:Education ;
+ns1:Bill2889 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill2878 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill2895 ns1:belongsTo ns1:Education ;
+ns1:Bill2899 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Unassigned ;
     ns1:hasStatus ns1:Royal_Assent ;
     ns1:isAct true ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill2933 ns1:belongsTo ns1:Education ;
-    ns1:billWithdrawn "2022-03-02T00:00:00" ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3046 ns1:belongsTo ns1:Education ;
+ns1:Bill2902 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3063 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3070 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3082 ns1:belongsTo ns1:Education ;
+ns1:Bill2910 ns1:belongsTo ns1:Health ;
     ns1:billWithdrawn "2021-12-07T00:00:00" ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3083 ns1:belongsTo ns1:Education ;
-    ns1:billWithdrawn "2022-03-15T00:00:00" ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3134 ns1:belongsTo ns1:Education ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3156 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:Report_stage ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3183 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3185 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3186 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3208 ns1:belongsTo ns1:Education ;
+ns1:Bill2917 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3359 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3370 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3393 ns1:belongsTo ns1:Education ;
+ns1:Bill2926 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3405 ns1:belongsTo ns1:Education ;
+ns1:Bill2948 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
+    ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3410 ns1:belongsTo ns1:Education ;
+ns1:Bill2952 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2959 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2974 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2976 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2983 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2987 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2994 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill2999 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3005 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3011 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3022 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Unassigned ;
     ns1:hasStatus ns1:Royal_Assent ;
     ns1:isAct true ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3463 ns1:belongsTo ns1:Education ;
+ns1:Bill3031 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3476 ns1:belongsTo ns1:Education ;
+ns1:Bill3081 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3478 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3480 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3493 ns1:belongsTo ns1:Education ;
+ns1:Bill3115 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:1st_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill3574 ns1:belongsTo ns1:Education ;
+ns1:Bill3129 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3586 ns1:belongsTo ns1:Education ;
+ns1:Bill3130 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3132 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3138 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3145 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3146 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3174 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:3rd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3180 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3201 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3222 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3235 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3241 ns1:belongsTo ns1:Health ;
+    ns1:billWithdrawn "2023-03-21T00:00:00" ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3247 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:1st_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3654 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
+ns1:Bill3256 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:1st_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3670 ns1:belongsTo ns1:Education ;
+ns1:Bill3261 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3270 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3673 ns1:belongsTo ns1:Education ;
+ns1:Bill3271 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3687 ns1:belongsTo ns1:Education ;
+ns1:Bill3273 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3713 ns1:belongsTo ns1:Education ;
+ns1:Bill3275 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3719 ns1:belongsTo ns1:Education ;
+ns1:Bill3283 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3312 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3343 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3358 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3363 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3365 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3384 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3404 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3409 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3416 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Unassigned ;
+    ns1:hasStatus ns1:Royal_Assent ;
+    ns1:isAct true ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3417 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3436 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3474 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3477 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3489 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3494 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3495 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3501 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3524 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3525 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:Order_of_Commitment_discharged ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3529 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:1st_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill3746 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
+ns1:Bill3554 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:1st_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill3756 ns1:belongsTo ns1:Education ;
+ns1:Bill3560 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3563 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:1st_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3565 ns1:belongsTo ns1:Health ;
+    ns1:billWithdrawn "2024-01-19T00:00:00" ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3572 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3585 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3593 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3595 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3616 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3624 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3629 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3637 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3638 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3640 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3642 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3650 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3660 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3662 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3664 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3678 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3689 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3696 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3703 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:Report_stage ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3721 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3741 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3750 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:Committee_stage ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill3769 ns1:belongsTo ns1:Education ;
+ns1:Bill3773 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3774 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:Report_stage ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3779 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:Committee_stage ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3782 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:Committee_stage ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3797 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3804 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3816 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3817 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3826 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3846 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3850 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3852 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3860 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3862 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3869 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3874 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Lords ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Lords .
+
+ns1:Bill3875 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3879 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Lords ;
     ns1:hasStatus ns1:Committee_stage ;
+    ns1:originatingHouse ns1:Commons .
+
+ns1:Bill3884 ns1:belongsTo ns1:Health ;
+    ns1:currentHouse ns1:Commons ;
+    ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Lords .
 
-ns1:Bill3772 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus <http://example.org/legislation/Consideration_of_Commons_amendments_and_/_or_reasons> ;
-    ns1:originatingHouse ns1:Lords .
-
-ns1:Bill3781 ns1:belongsTo ns1:Education ;
+ns1:Bill3891 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3810 ns1:belongsTo ns1:Education ;
+ns1:Bill3893 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3812 ns1:belongsTo ns1:Education ;
-    ns1:billWithdrawn "2025-03-24T00:00:00" ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:1st_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3820 ns1:belongsTo ns1:Education ;
+ns1:Bill3903 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3909 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Lords ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3919 ns1:belongsTo ns1:Education ;
+ns1:Bill3935 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
 
-ns1:Bill3948 ns1:belongsTo ns1:Education ;
-    ns1:currentHouse ns1:Commons ;
-    ns1:hasStatus ns1:2nd_reading ;
-    ns1:originatingHouse ns1:Commons .
-
-ns1:Bill3954 ns1:belongsTo ns1:Education ;
+ns1:Bill3945 ns1:belongsTo ns1:Health ;
     ns1:currentHouse ns1:Commons ;
     ns1:hasStatus ns1:2nd_reading ;
     ns1:originatingHouse ns1:Commons .
