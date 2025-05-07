@@ -186,11 +186,3 @@ Built using:
 * Supabase Python client
 * RDFLib
 * OpenAI GPT-4o
-
----
-
-## 🛠️ Future Ideas
-
-* Visualize graphs with D3.js
-* Export RDF data as `.ttl` or `.rdf`
-* Add support for multiple policy areas
