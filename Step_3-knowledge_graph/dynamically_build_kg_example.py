@@ -19,7 +19,11 @@ sb: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 # --- Step 1: Fetch Data from Supabase ---
 def fetch_bill_data(policy_area="Education"):
     print("[INFO] Fetching data from Supabase...")
-    response = sb.table("all_bills_uk").select("*").eq("policyArea", policy_area).execute()
+    response = sb.table("all_bills_uk")\
+        .select("*")\
+        .eq("policyArea", policy_area)\
+        .gte("lastUpdate", "2022-01-01")\
+        .execute()
     print(f"[INFO] Retrieved {len(response.data)} records.")
     return response.data
 
