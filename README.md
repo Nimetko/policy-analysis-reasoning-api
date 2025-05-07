@@ -4,6 +4,44 @@ This project dynamically builds a knowledge graph from UK parliamentary bill dat
 
 ---
 
+## 📁 Project Structure
+
+```
+policy-analysis-reasoning-api/
+├── Step_1-fetch_data_UK_Parliament_Bills/     # STEP 1: Fetch real UK Parliament bill data
+├── Step_2-Data-Augmentation/                  # STEP 2: AI-powered data enrichment using OpenAI GPT
+├── Step_3-knowledge_graph/                    # STEP 3: Build RDF knowledge graph and serve via Flask API
+├── venv/                                      # Python virtual environment
+├── README.md
+└── requirements.txt
+```
+
+---
+
+## 👨‍💼 Step-by-Step Overview
+
+### ✅ STEP 1 – Fetch Real Parliament Data
+
+Fetch real bill data from the UK Parliament API:
+
+```python
+BASE_URL = "https://bills-api.parliament.uk/api/v1/Bills"
+```
+
+Code for this step is inside `Step_1-fetch_data_UK_Parliament_Bills/`.
+
+### 🧠 STEP 2 – AI-Powered Data Augmentation
+
+This step enhances the raw legislative bills data by enriching each bill with a new field: `policyArea`. This is done by classifying each bill's `shortTitle` using OpenAI's GPT model.
+
+See the README inside `Step_2-Data-Augmentation/` for more details.
+
+### 🌐 STEP 3 – Build and Query Knowledge Graph
+
+This step constructs the RDF graph and serves it through a Flask API. It's located in `Step_3-knowledge_graph/`.
+
+---
+
 ## 📆 Features
 
 * 🔍 Fetch UK bill data by policy area
@@ -148,3 +186,11 @@ Built using:
 * Supabase Python client
 * RDFLib
 * OpenAI GPT-4o
+
+---
+
+## 🛠️ Future Ideas
+
+* Visualize graphs with D3.js
+* Export RDF data as `.ttl` or `.rdf`
+* Add support for multiple policy areas
